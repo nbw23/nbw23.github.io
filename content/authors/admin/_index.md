@@ -9,10 +9,6 @@ name_pronunciation: Nathanael Burns-Watson
 first_name: Nathanael
 last_name: Burns-Watson
 
-# Status emoji
-status:
-  icon: ☕
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -58,12 +54,9 @@ education:
     date_start: 2020-09-01
     date_end: 2024-05-01
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.8/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -121,14 +114,6 @@ skills:
         description: ''
         percent: 80
         icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
