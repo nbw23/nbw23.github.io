@@ -3,7 +3,7 @@
 title: Graduate Student
 
 # Name pronunciation (optional)
-name_pronunciation: Nathanael Burns-Watson
+# name_pronunciation: Nathanael Burns-Watson
 
 # Full name (for SEO)
 first_name: Nathanael
@@ -26,11 +26,13 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: envelope-open
     url: 'mailto:nathanael.burnswatson@austin.utexas.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/nbw23
+  - icon: academicons/ads
+    url: https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=orcid%3A0009-0000-2051-8120&sort=date%20desc%2C%20bibcode%20desc&p_=0
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/nathanael-burns-watson-36008225a/
   - icon: academicons/google-scholar
