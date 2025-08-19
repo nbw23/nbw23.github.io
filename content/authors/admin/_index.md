@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Graduate Student
+title: Nathanael Burns-Watson
 
 # Name pronunciation (optional)
 # name_pronunciation: Nathanael Burns-Watson
@@ -72,4 +72,4 @@ skills:
 
 ## Hi, I'm Nathanael Burns-Watson
 
-I am a graduate student at the University of Texas at Austin studying exoplanets in binary star systems with [Prof. Adam L. Kraus](https://adamkraus.github.io/)
+I am a graduate student at the University of Texas at Austin studying exoplanets in binary star systems with [Prof. Adam L. Kraus](https://adamkraus.github.io/).
