@@ -16,11 +16,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Graduate Student
+role: nathanael.burnswatson@austin.utexas.edu
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Texas at Austin
+  - name: Graduate Student; University of Texas at Austin
     url: https://astronomy.utexas.edu/
 
 # Social network links
